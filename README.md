@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mYythc
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Operations Research
 - 📫 How to reach me 1992235848@qq.com
